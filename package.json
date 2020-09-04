@@ -9,7 +9,7 @@
     "gulp-image-resize": "^0.13.1",
     "gulp-imagemin": "^6.2.0",
     "gulp-load-plugins": "^2.0.1",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   },
   "name": "gulp-test",
   "version": "1.0.0",
